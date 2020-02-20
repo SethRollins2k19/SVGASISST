@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="20">
-    <linearGradient id="m1" x2="0" y2="100%">
+<!--
+  Open Source Badge - Show your love for Open Source
+  https://github.com/ellerbrock/open-source-badge
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20">
+ <linearGradient id="m1" x2="0" y2="100%">
         <stop offset="0" stop-color="#212121" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
     </linearGradient>
