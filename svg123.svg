@@ -1,9 +1,5 @@
-<!--
-  Open Source Badge - Show your love for Open Source
-  https://github.com/ellerbrock/open-source-badge
--->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="20">
- <linearGradient id="m1" x2="0" y2="100%">
+    <linearGradient id="m1" x2="0" y2="100%">
         <stop offset="0" stop-color="#212121" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
     </linearGradient>
@@ -15,8 +11,7 @@
     </g>
     <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
         <g font-size="12" fill="#282a36">
-            <image x="2" y="2" width="15" height="15" xlink:href="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png">
-
+            <image xlink:href="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" x="2" y="2" width="15" height="15" >
             </image>
             <text x="18" y="15" fill="#DDD" fill-opacity=".4">Programming language:</text>
             <text x="18" y="14">Programming language:</text>
